@@ -117,7 +117,8 @@
 
   <!-- Tools & Platforms -->
 
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,GitLab-Dark,mysql,pycharm,pytorch,aws,vscode,pycharm,jupyter,linux" />
+  
 
 </div>
 
