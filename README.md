@@ -1,446 +1,343 @@
-<!-- =========================================================
-     HEADER
-========================================================= -->
+<!-- Header Wave (Commented Out)
+<div align="center">
+  <a href="#">
+    <img 
+      width="100%" 
+      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
+    />
+  </a>
+  <br>
+</div>
+-->
+
+<!-- Footer Wave (Commented Out)
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
+    width="100%" 
+  />
+</p>
+-->
+
+<!-- MasterHead -->
+
+<a href="C:\Users\TanishTushid\OneDrive\Desktop\TanishTushid\images&vid\WhatsApp Video 2026-08-02 at 10.21.14.mp4">
+  <img width="100%" src="https://github.com/TanishTushid/TanishTushid/blob/main/firemen.gif" alt="Fallout GIF"/>
+</a>
+
+<!-- Greeting -->
+
+<!--<h2 align="center">❂ I am Joshua Thadi</h2>-->
+
+
+
+<div align="center">
+  <!-- Profile Views -->
+  <!-- Social & Coding Profiles -->
+
+<p align="center">
+
+  <!-- LeetCode -->
+
+  <a href="https://leetcode.com/u/Tanish_tushid/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LeetCode-Tanish__tushid-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+      alt="LeetCode"
+    />
+  </a>
+
+  <!-- HackerRank -->
+
+  <a href="https://www.hackerrank.com/profile/tanish_tushid_21" target="_blank">
+    <img
+      src="https://img.shields.io/badge/HackerRank-tanish__tushid__21-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"
+      alt="HackerRank"
+    />
+  </a>
+
+  <!-- LinkedIn -->
+
+  <a href="https://www.linkedin.com/in/tanish-tushid-ba769535b/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <!-- Gmail -->
+
+  <a href="mailto:tanish.tushid.2004@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-Email__Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+
+</p>
+
+
+
+</div>
+
+<img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
+
+<!-- About Me -->
+
+<h3 align="left">💫 About Me</h3>
+<p>
+  🐍 I’m passionate about Python, Data Structures & Algorithms, and Artificial Intelligence.<br>
+  🧠 Currently strengthening my problem-solving skills through LeetCode and DSA practice.<br>
+  🤖 Exploring Machine Learning, Deep Learning, TensorFlow, and AI engineering.<br>
+  🛠️ Building practical projects in Python, ML, Computer Vision, and automation.<br>
+  📊 Experienced with NumPy, Pandas, Scikit-learn, XGBoost, TensorFlow, and Streamlit.<br>
+  🚀 Working toward becoming a Python Developer & ML Engineer.<br>
+  💡 I enjoy turning ideas into real-world projects and continuously learning new technologies.
+</p>
+
+<br>
+<br>
+
+<!-- Languages & Tools -->
+
+<h3 align="center">🛠️ Languages, Libraries & Tools</h3>
 
 <div align="center">
 
-<img
-  width="100%"
-  src="https://github.com/TanishTushid/TanishTushid/blob/main/firemen.gif?raw=true"
-  alt="Header GIF"
-/>
+  <!-- Programming -->
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,sql,bash" /><br>
 
-<!-- =========================================================
-     SOCIAL & CODING PROFILES
-========================================================= -->
+  <!-- Data Science & Machine Learning -->
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" /><br>
 
-<a href="https://leetcode.com/u/Tanish_tushid/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-Tanish__tushid-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
+  <!-- Development -->
 
-<a href="https://www.hackerrank.com/profile/tanish_tushid_21" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-tanish__tushid__21-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
+<img src="https://skillicons.dev/icons?i=flask,django,fastapi,streamlit" /><br>
 
-<a href="https://www.linkedin.com/in/tanish-tushid-ba769535b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+  <!-- Tools & Platforms -->
 
-<a href="mailto:tanish.tushid.2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email__Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter,linux" />
 
-</p>
+</div>
 
 <br>
 
-<!-- =========================================================
-     ABOUT ME
-========================================================= -->
+<div align="center">
 
-<h2 align="center">💫 About Me</h2>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
 
-<p align="center">
+</div>
+
+<br>
+
+<!-- GitHub Status -->
+
+<h3 align="center">📊 GitHub Statistics</h3>
+
+<div align="center">
+
+  <!-- GitHub Stats -->
 
 <img
-  width="350"
-  src="https://github.com/TanishTushid/TanishTushid/blob/main/transparent_gitgif.gif?raw=true"
-  alt="Coding GIF"
+width="400"
+src="https://github-readme-stats.vercel.app/api?username=TanishTushid&show_icons=true&theme=nord&rank_icon=github&border_radius=10"
+alt="TanishTushid GitHub Stats"
 />
 
-</p>
+  <!-- GitHub Streak -->
 
-<p align="center">
+<img
+width="400"
+src="https://nirzak-streak-stats.vercel.app/?user=TanishTushid&theme=nord&hide_border=false&border_radius=10"
+alt="TanishTushid GitHub Streak"
+/>
 
-🐍 Passionate about <b>Python, Data Structures & Algorithms, and Artificial Intelligence.</b>
-<br><br>
-
-🧠 Strengthening my problem-solving skills through <b>LeetCode and DSA practice.</b>
-<br><br>
-
-🤖 Exploring <b>Machine Learning, Deep Learning, TensorFlow, and AI Engineering.</b>
-<br><br>
-
-🛠️ Building practical projects in <b>Python, Machine Learning, Computer Vision, and Automation.</b>
-<br><br>
-
-📊 Working with <b>NumPy, Pandas, Scikit-learn, XGBoost, TensorFlow, and Streamlit.</b>
-<br><br>
-
-🚀 Working toward becoming a <b>Python Developer & ML Engineer.</b>
-<br><br>
-
-💡 I enjoy turning ideas into real-world projects and continuously learning new technologies.
-
-</p>
+</div>
 
 <br>
 
-<!-- =========================================================
-     CURRENT FOCUS
-========================================================= -->
+<!-- Top Languages -->
 
-<h2 align="center">🧠 Current Focus</h2>
+<div align="center">
+  <img
+    width="400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishTushid&layout=compact&theme=nord&border_radius=10"
+    alt="Top Languages"
+  />
+</div>
 
-<p align="center">
 
-🔥 <b>DSA & LeetCode</b>
-&nbsp; • &nbsp;
-🤖 <b>Machine Learning</b>
-&nbsp; • &nbsp;
-🧠 <b>Deep Learning</b>
 
-<br><br>
+<!-- Best Repositories -->
 
-🐍 <b>Python Development</b>
-&nbsp; • &nbsp;
-👁️ <b>Computer Vision</b>
-&nbsp; • &nbsp;
-⚙️ <b>AI Engineering</b>
+<div align="center">
+  <h3>⭐️ Interesting Repositories</h3>
+  <p align="center">
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Wall-E-Desk" /></a>
+<a href="https://github.com/JoshuaThadi/Void-OSE">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Void-OSE" /></a>
+<a href="https://github.com/JoshuaThadi/IDE-Cosmo">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=IDE-Cosmo" /></a>
+<a href="https://github.com/JoshuaThadi/Books-Of-Knowledge">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Books-Of-Knowledge" /></a>
+<a href="https://github.com/JoshuaThadi/PixelVault">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=PixelVault" /></a>
+<a href="https://github.com/JoshuaThadi/My-Projects">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=My-Projects" /></a>
+  </p>
+</div>
 
-</p>
+<!-- Tech Stack -->
 
-<br>
+<h3 align="center">💻 Tech Stack</h3>
 
-<!-- =========================================================
-     LANGUAGES & TOOLS
-========================================================= -->
-
-<h2 align="center">🛠️ Languages, Libraries & Tools</h2>
-
-<br>
+<div align="center">
 
 <!-- Programming Languages -->
 
-<h3 align="center">💻 Programming Languages</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,bash,mysql" alt="Programming Languages"/>
-
-</p>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
 
 <br>
 
 <!-- Data Science -->
 
-<h3 align="center">📊 Data Science & Visualization</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-
-</p>
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+</a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+</a>
+<a href="https://scipy.org/" target="_blank">
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white">
+</a>
+<a href="https://matplotlib.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white">
+</a>
 
 <br>
 
 <!-- Machine Learning -->
 
-<h3 align="center">🤖 Machine Learning</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
-<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logo=lightgbm&logoColor=black" alt="LightGBM"/>
-<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=catboost&logoColor=black" alt="CatBoost"/>
-<img src="https://img.shields.io/badge/Joblib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Joblib"/>
-
-</p>
-
-<br>
-
-<!-- Deep Learning -->
-
-<h3 align="center">🧠 Deep Learning & AI</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="TensorFlow and PyTorch"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-
-</p>
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+</a>
+<a href="https://xgboost.readthedocs.io/" target="_blank">
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white">
+</a>
+<a href="https://lightgbm.readthedocs.io/" target="_blank">
+  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logo=lightgbm&logoColor=white">
+</a>
+<a href="https://catboost.ai/" target="_blank">
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=catboost&logoColor=black">
+</a>
 
 <br>
 
-<!-- Computer Vision -->
+<!-- Deep Learning & AI -->
 
-<h3 align="center">👁️ Computer Vision</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
-
-</p>
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+</a>
+<a href="https://keras.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+</a>
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+</a>
+<a href="https://opencv.org/" target="_blank">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+</a>
 
 <br>
 
 <!-- Python Development -->
 
-<h3 align="center">🌐 Python Development</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=flask,django,fastapi" alt="Python Frameworks"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-
-</p>
-
-<br>
-
-<!-- Databases -->
-
-<h3 align="center">🗄️ Databases</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" alt="Databases"/>
-
-</p>
-
-<br>
-
-<!-- Development Tools -->
-
-<h3 align="center">⚙️ Development & Tools</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,pycharm,jupyter,linux,docker" alt="Development Tools"/>
-
-</p>
-
-<br>
-
-<!-- Cloud -->
-
-<h3 align="center">☁️ Cloud & Deployment</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel" alt="Cloud and Deployment"/>
-
-</p>
-
-<br>
-
-<!-- =========================================================
-     GITHUB STATISTICS
-========================================================= -->
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<br>
-
-<p align="center">
-
-<img
-  width="450"
-  src="https://github-readme-stats.vercel.app/api?username=TanishTushid&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=nord&rank_icon=github"
-  alt="GitHub Stats"
-/>
-
-<img
-  width="450"
-  src="https://nirzak-streak-stats.vercel.app/?user=TanishTushid&hide_border=true&theme=nord"
-  alt="GitHub Streak"
-/>
-
-</p>
-
-<br>
-
-<h3 align="center">📈 Most Used Languages</h3>
-
-<p align="center">
-
-<img
-  width="450"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishTushid&layout=compact&custom_title=Most%20Used%20Languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=nord"
-  alt="Most Used Languages"
-/>
-
-</p>
-
-<br>
-
-<!-- =========================================================
-     3D CONTRIBUTIONS
-========================================================= -->
-
-<h2 align="center">🌌 3D Contributions</h2>
-
-<p align="center">
-
-<a href="./profile-3d-contrib/profile-night-green.svg">
-
-<img
-  width="900"
-  src="./profile-3d-contrib/profile-night-green.svg"
-  alt="3D GitHub Contributions"
-/>
-
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+</a>
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+</a>
+<a href="https://streamlit.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 </a>
 
-</p>
-
 <br>
 
-<!-- =========================================================
-     INTERESTING REPOSITORIES
-========================================================= -->
+<!-- Tools -->
 
-<h2 align="center">⭐ Interesting Repositories</h2>
-
-<br>
-
-<p align="center">
-
-<a href="https://github.com/TanishTushid/Wall-E-Desk">
-<img
-  width="400"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=TanishTushid&repo=Wall-E-Desk&theme=nord"
-  alt="Wall-E-Desk"
-/>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </a>
-
-<a href="https://github.com/TanishTushid/Void-OSE">
-<img
-  width="400"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=TanishTushid&repo=Void-OSE&theme=nord"
-  alt="Void-OSE"
-/>
+<a href="https://github.com/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/TanishTushid/IDE-Cosmo">
-<img
-  width="400"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=TanishTushid&repo=IDE-Cosmo&theme=nord"
-  alt="IDE-Cosmo"
-/>
+<a href="https://jupyter.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 </a>
-
-<a href="https://github.com/TanishTushid/Books-Of-Knowledge">
-<img
-  width="400"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=TanishTushid&repo=Books-Of-Knowledge&theme=nord"
-  alt="Books Of Knowledge"
-/>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/TanishTushid/PixelVault">
-<img
-  width="400"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=TanishTushid&repo=PixelVault&theme=nord"
-  alt="PixelVault"
-/>
+<a href="https://www.anaconda.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
 </a>
-
-<a href="https://github.com/TanishTushid/My-Projects">
-<img
-  width="400"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=TanishTushid&repo=My-Projects&theme=nord"
-  alt="My Projects"
-/>
-</a>
-
-</p>
-
-<br>
-
-<!-- =========================================================
-     LET'S CONNECT
-========================================================= -->
-
-<h2 align="center">🤝 Let's Connect</h2>
-
-<p align="center">
-
-<i>
-I'm always open to learning, collaborating, and building interesting projects.
-</i>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<a href="https://leetcode.com/u/Tanish_tushid/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/tanish_tushid_21" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
-
-<a href="https://github.com/TanishTushid" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/tanish-tushid-ba769535b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:tanish.tushid.2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</p>
-
-<br>
-
-<p align="center">
-🚀 <b>Learning → Building → Solving → Improving</b>
-</p>
-
-<br>
-
-<!-- =========================================================
-     FOOTER
-========================================================= -->
-
-<img
-  width="100%"
-  src="https://github.com/TanishTushid/TanishTushid/blob/main/Boreal--Valley.gif?raw=true"
-  alt="Footer GIF"
-/>
-
-<br><br>
-
-<img
-  width="100%"
-  src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"
-  alt="Animated Line"
-/>
-
-<br>
-
-<p align="center">
-⚡ <b>This README is uniquely designed by @TanishTushid</b>
-</p>
 
 </div>
+
+</div>
+
+
+
+<!-- Let's Connect -->
+
+<h3 align="center">🤝 Let's Connect</h3>
+
+<p align="center">
+  <i>I'm always open to learning, collaborating, and building interesting projects.</i>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Tanish_tushid/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/tanish_tushid_21" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://github.com/TanishTushid" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  🚀 <b>Learning → Building → Solving → Improving</b>
+</p>
+
+<!-- Ending -->
+
+<img src="https://github.com/TanishTushid/TanishTushid/blob/main/Boreal--Valley.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
+
+<p align="center">
+  ⚠️ This README is uniquely designed by <strong>@Tanish Tushid </strong>
+</p>
