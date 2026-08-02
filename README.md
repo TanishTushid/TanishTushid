@@ -178,18 +178,18 @@ alt="TanishTushid GitHub Streak"
 <div align="center">
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Wall-E-Desk" /></a>
-<a href="https://github.com/JoshuaThadi/Void-OSE">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Void-OSE" /></a>
-<a href="https://github.com/JoshuaThadi/IDE-Cosmo">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=IDE-Cosmo" /></a>
-<a href="https://github.com/JoshuaThadi/Books-Of-Knowledge">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Books-Of-Knowledge" /></a>
-<a href="https://github.com/JoshuaThadi/PixelVault">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=PixelVault" /></a>
-<a href="https://github.com/JoshuaThadi/My-Projects">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=My-Projects" /></a>
+<a href="https://github.com/TanishTushid/TrustLensAI">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TanishTushid&repo=TrustLensAI" /></a>
+<a href="https://github.com/TanishTushid/leetcode-topic-wise-solutions">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TanishTushid&repo=leetcode-topic-wise-solutions" /></a>
+<a href="https://github.com/TanishTushid/Employee-Attrition-Prediction">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TanishTushid&repo=Employee-Attrition-Prediction" /></a>
+<a href="https://github.com/TanishTushid/machine-learning-projects">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TanishTushid&repo=machine-learning-projects" /></a>
+<a href="https://github.com/TanishTushid/fake-news-detection-django">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TanishTushid&repo=fake-news-detection-django" /></a>
+<a href="https://github.com/TanishTushid/Futuristic-3D-Port">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TanishTushid&repo=Futuristic-3D-Port" /></a>
   </p>
 </div>
 
