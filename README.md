@@ -336,7 +336,7 @@ alt="TanishTushid GitHub Streak"
 <img 
   src="https://github.com/TanishTushid/TanishTushid/blob/main/universe.gif"
   alt="Wall-E GIF"
-  style="width:4000px; height:500px;"
+  style="width:4000px; height:400px;"
 />
 
 <img 
