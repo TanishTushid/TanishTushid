@@ -334,7 +334,7 @@ alt="TanishTushid GitHub Streak"
 
 <!-- Ending -->
 
-<img src="https://github.com/TanishTushid/TanishTushid/blob/main/Boreal--Valley.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
+<img src="https://github.com/TanishTushid/TanishTushid/blob/main/universe.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
