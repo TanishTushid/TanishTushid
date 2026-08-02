@@ -21,7 +21,7 @@
 
 <!-- MasterHead -->
 <a href="C:\Users\TanishTushid\OneDrive\Desktop\TanishTushid\images&vid\WhatsApp Video 2026-08-02 at 10.21.14.mp4">
-  <img width="100%" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/BEZEHEL.gif" alt="Fallout GIF"/>
+  <img width="100%" src="https://github.com/TanishTushid/TanishTushid/blob/main/firemen.gif" alt="Fallout GIF"/>
 </a>
 
 <!-- Greeting -->
