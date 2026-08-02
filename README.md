@@ -137,30 +137,15 @@
 <br>
 
 <!-- GitHub Status -->
-
-<h3 align="center">📊 GitHub Statistics</h3>
-
-<div align="center">
-
-  <!-- GitHub Stats -->
-
-<img
+<!-- GitHub Status --> <h3 align="center">📊 GitHub Statistics</h3> <div align="center">   <!-- GitHub Stats --> <img
 width="400"
 src="https://github-readme-stats.vercel.app/api?username=TanishTushid&show_icons=true&theme=nord&rank_icon=github&border_radius=10"
 alt="TanishTushid GitHub Stats"
-/>
-
-  <!-- GitHub Streak -->
-
-<img
+/>   <!-- GitHub Streak --> <img
 width="400"
 src="https://nirzak-streak-stats.vercel.app/?user=TanishTushid&theme=nord&hide_border=false&border_radius=10"
 alt="TanishTushid GitHub Streak"
-/>
-
-</div>
-
-<br>
+/> </div> <br>
 
 <!-- Top Languages -->
 
