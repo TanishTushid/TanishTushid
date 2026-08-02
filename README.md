@@ -528,5 +528,33 @@
     ⚡ This README is uniquely designed by
     <strong>@TanishTushid</strong>
   </p>
+<h3 align="center">formidablae</h3>
+
+<p align="center">
+	Founder & Lead Software Dev at <a href="https://github.com/savant-realms">Savant Realms</a><br>
+	Milan, Italy
+</p>
+
+<hr>
+
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=formidablae&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+</p>
+
+<p align="center">
+	<img width="450em" src="https://streak-stats.demolab.com/?user=formidablae&hide_border=true&theme=dark"/>
+</p>
+
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formidablae&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=C%2B%2B,C,TeX,C%23,Assembly,MATLAB,CMake,ShaderLab,HLSL,TSQL,DART,D,Makefile,Ruby,Swift,Standard%20ML,SCSS,CSS,Vue">
+</p>
+
+## 3D Contributions
+
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+	</a>
+</p>
 
 </div>
