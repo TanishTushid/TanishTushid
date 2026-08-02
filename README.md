@@ -31,22 +31,49 @@
 
 <div align="center">
   <!-- Profile Views -->
+  <!-- Social & Coding Profiles -->
+
+<p align="center">
+
+  <!-- LeetCode -->
+
+  <a href="https://leetcode.com/u/Tanish_tushid/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LeetCode-Tanish__tushid-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+      alt="LeetCode"
+    />
+  </a>
+
+  <!-- HackerRank -->
+
+  <a href="https://www.hackerrank.com/profile/tanish_tushid_21" target="_blank">
+    <img
+      src="https://img.shields.io/badge/HackerRank-tanish__tushid__21-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"
+      alt="HackerRank"
+    />
+  </a>
+
+  <!-- LinkedIn -->
+
+  <a href="https://www.linkedin.com/in/tanish-tushid-ba769535b/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <!-- Gmail -->
+
+  <a href="mailto:tanish.tushid.2004@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-Email__Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+
+</p>
+
   
-  <a href="https://github.com/JoshuaThadi" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
-  
-  <!--<img src="https://img.shields.io/badge/Profile%20Views-12,391-5e81ac?style=for-the-badge&logo=github" />-->
-
-  <!-- Total Stars -->
-  <a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
-
-  <!-- Followers -->
-  <a href="https://github.com/joshuathadi?tab=followers" target="_blank">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/joshuathadi?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
-
-  <a style="display:block;" href="https://github.com/joshuathadi?tab=repositories&q=&type=source&language=&sort=stargazers">
-    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=bf616a&labelColor=5C5858&logoColor=ffffff&label=Forks&style=for-the-badge&query=%24.forks&refresh=1&url=https://api.github-star-counter.workers.dev/user/joshuathadi" /></a>
   
 </div>
 
@@ -55,42 +82,91 @@
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
 <p>
-  🌱 I am currently working on and developing my programming skills.<br>
-  🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
-  💬 Skills I acquire in programming languages such as Python, SQL.<br>
-  ⚡ Interest in DS/AI/ML, Automation, Development/Engineering, etc.<br>
+  🐍 I’m passionate about Python, Data Structures & Algorithms, and Artificial Intelligence.<br>
+  🧠 Currently strengthening my problem-solving skills through LeetCode and DSA practice.<br>
+  🤖 Exploring Machine Learning, Deep Learning, TensorFlow, and AI engineering.<br>
+  🛠️ Building practical projects in Python, ML, Computer Vision, and automation.<br>
+  📊 Experienced with NumPy, Pandas, Scikit-learn, XGBoost, TensorFlow, and Streamlit.<br>
+  🚀 Working toward becoming a Python Developer & ML Engineer.<br>
+  💡 I enjoy turning ideas into real-world projects and continuously learning new technologies.
 </p>
-
-<h3 align="left">🧲 Drop me a line:</h3>
-<div align="left">
-  <a href="mailto:thadijoshua@gmail.com"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/joshuathadi" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
-  <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
-  <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
-  <a href="https://youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n&si=QA1tSQcT_Ogw5DjG" target="_blank"><img width="37px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
-</div>
 
 <br>
 <br>
 
 <!-- Languages & Tools -->
-<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
+
+<h3 align="center">🛠️ Languages, Libraries & Tools</h3>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-  <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+
+  <!-- Programming -->
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,sql,bash" /><br>
+
+  <!-- Data Science & Machine Learning -->
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" /><br>
+
+  <!-- Development -->
+
+<img src="https://skillicons.dev/icons?i=flask,django,fastapi,streamlit" /><br>
+
+  <!-- Tools & Platforms -->
+
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter,linux" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+
 </div>
 
 <br>
 
 <!-- GitHub Status -->
-<!--<h3 align="center">🌱 GitHub Status</h3>
+
+<h3 align="center">📊 GitHub Statistics</h3>
+
 <div align="center">
-   <img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" /> 
-<img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joshuathadi&theme=nord&hide_border=false" alt="." />
-</div>-->
+
+  <!-- GitHub Stats -->
+
+<img
+ width="400"
+ src="https://github-readme-stats.vercel.app/api?username=TanishTushid&show_icons=true&theme=nord&rank_icon=github&border_radius=10"
+ alt="TanishTushid GitHub Stats"
+/>
+
+  <!-- GitHub Streak -->
+
+<img
+ width="400"
+ src="https://nirzak-streak-stats.vercel.app/?user=TanishTushid&theme=nord&hide_border=false&border_radius=10"
+ alt="TanishTushid GitHub Streak"
+/>
+
+</div>
+
+<br>
+
+<!-- Top Languages -->
+
+<div align="center">
+  <img
+    width="400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishTushid&layout=compact&theme=nord&border_radius=10"
+    alt="Top Languages"
+  />
+</div>
 
 
 
@@ -115,47 +191,113 @@
 
 
 <!-- Tech Stack -->
+
 <h3 align="center">💻 Tech Stack</h3>
+
 <div align="center">
 
-<!-- Languages -->
+<!-- Programming Languages -->
 
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-<a href="https://www.prisma.io" target="_blank">
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></a>
-<a href="https://supabase.com" target="_blank">
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
-<a href="https://clerk.com" target="_blank">
-    <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" /></a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+
+<br>
+
+<!-- Data Science -->
+
 <a href="https://numpy.org/" target="_blank">
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+</a>
 <a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+</a>
 <a href="https://scipy.org/" target="_blank">
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white">
+</a>
+<a href="https://matplotlib.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white">
+</a>
+
+<br>
+
+<!-- Machine Learning -->
+
 <a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
-<a href="https://plotly.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"></a>
-<a href="https://keras.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white"></a>
-<a href="https://pytorch.org/" target="_blank">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"></a>
-<a href="https://www.anaconda.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
-<a href="https://jupyter.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+</a>
+<a href="https://xgboost.readthedocs.io/" target="_blank">
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white">
+</a>
+<a href="https://lightgbm.readthedocs.io/" target="_blank">
+  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logo=lightgbm&logoColor=white">
+</a>
+<a href="https://catboost.ai/" target="_blank">
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=catboost&logoColor=black">
+</a>
+
+<br>
+
+<!-- Deep Learning & AI -->
+
 <a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+</a>
+<a href="https://keras.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+</a>
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+</a>
+<a href="https://opencv.org/" target="_blank">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+</a>
 
+<br>
 
+<!-- Python Development -->
+
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+</a>
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+</a>
+<a href="https://streamlit.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+</a>
+
+<br>
+
+<!-- Tools -->
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://jupyter.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</a>
+<a href="https://www.anaconda.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
+</a>
 
 </div>
 
@@ -163,13 +305,30 @@
 
 
 
-<!-- Support -->
-<h3 align="center">💰 Support Me</h3>
+<!-- Let's Connect -->
+
+<h3 align="center">🤝 Let's Connect</h3>
+
 <p align="center">
-  <a href="https://www.buymeacoffee.com/joshuathadi">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
+  <i>I'm always open to learning, collaborating, and building interesting projects.</i>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Tanish_tushid/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/tanish_tushid_21" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://github.com/TanishTushid" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+<p align="center">
+  🚀 <b>Learning → Building → Solving → Improving</b>
+</p>
+
 
 <!-- Ending -->
 <img src="https://github.com/TanishTushid/TanishTushid/blob/main/Boreal--Valley.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
@@ -177,5 +336,5 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
 <p align="center">
-  ⚠️ This README is uniquely designed by <strong>@JoshuaThadi.</strong>
+  ⚠️ This README is uniquely designed by <strong>@Tanish Tushid </strong>
 </p>
